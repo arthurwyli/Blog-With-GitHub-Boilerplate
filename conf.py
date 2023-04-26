@@ -57,7 +57,7 @@ nav = [
 social_links = [  
     {
         "name": "Ref GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/arthurwyli",
         "icon": "gi gi-github"
     }
 ]
