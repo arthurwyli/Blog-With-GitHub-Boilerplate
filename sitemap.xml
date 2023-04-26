@@ -12,7 +12,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/blog/archives/test/</loc>
+    <loc>/blog/archives/typography/</loc>
     <lastmod>2023-04-26</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
